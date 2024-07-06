@@ -1,0 +1,1 @@
+cat db/create-tables.sql | sqlite3 db/app.db
